@@ -1,4 +1,5 @@
 ## 🥦 안녕! 이건 내 GIT-HUB 프로필이야! 🥦
+- 📫 How to reach me: happythgus@khu.ac.kr
 
   <div>
 	
@@ -7,18 +8,10 @@
   </div>
   
    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SohyeonKim-dev)](https://github.com/anuraghazra/github-readme-stats)
+   
 
-<!--
-**SohyeonKim-dev/SohyeonKim-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 Programming Books
+- 📕 : 열혈 C++(윤성우), 열혈 자료구조(윤성우), Clean Code(로퍼트 마틴)
+- 📗 : 객체지향 프로그래밍(김동헌), Git-GitHub(정호영)
+- 📘 : 이것이 자바다(신용권), 알고리즘 문제 해결 전략(구종만)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
