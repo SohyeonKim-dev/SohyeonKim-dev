@@ -1,4 +1,4 @@
-### 🥦 HELLO! 이건 내 GIT-HUB 프로필입니다! 🥦
+### 🥦 HELLO! This is my GIT-HUB profile! 🥦
 - 📫 How to reach me: happythgus@khu.ac.kr
 - 💻 My Web-Site: https://sites.google.com/khu.ac.kr/broccoli-website/
 
