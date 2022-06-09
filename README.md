@@ -50,7 +50,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### Apple Developer Academy @ POSTECH & IOS App Programming
+### Apple Developer Academy @ POSTECH
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -73,10 +73,12 @@
    
 #
 # 📚 Programming Books
-- 📕 : 열혈 C++(윤성우), 열혈 자료구조(윤성우), Do it 자료구조와 함께 배우는 알고리즘 입문 C
-- 📗 : 객체지향 프로그래밍(김동헌), Git-GitHub(정호영), Clean Code(로버트 마틴)
+- 📕 : 윤성우의 열혈 C++ 프로그래밍(윤성우), 윤성우의 열혈 자료구조(윤성우)
+- 📕 : Do it 자료구조와 함께 배우는 알고리즘 입문 C언어 편(보요 시바타)
+- 📗 : 객체지향 프로그래밍(김동헌), Git-GitHub(정호영), Clean Code(로버트 마틴)x2회독
 - 📗 : 죽을 때까지 코딩하며 사는 법(홍전일), 코드와 살아가기(앨런 울먼), 성공하는 프로그래밍 공부법(박재성)
 - 📘 : 알고리즘 문제 해결 전략 1, 2(구종만), 이것이 자바다 1(신용권)
 - 📘 : 핸즈온 머신 러닝2(오렐리앙 제롱), 케라스 창시자에게 배우는 딥러닝(프랑소와 숄레)
+- 📒 : 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈) 
 
 <br/>
