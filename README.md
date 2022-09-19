@@ -2,14 +2,14 @@
 <br/>  
 <p align="center">
 	
-<img src="https://capsule-render.vercel.app/api?type=Rounded&fontColor=392f31&color=68c17c&animation=blinking&height=150&section=header&text=Kim So-Hyeon&fontSize=80" />   
+<img src="https://capsule-render.vercel.app/api?type=Rounded&fontColor=392f31&color=68c17c&animation=blinking&height=150&section=header&text=Kim So-Hyeon&fontSize=80"/>   
 
 </p>
 <br/>  
 
 <div align="center">
 	
-# 🥦 HELLO! This is my GIT-HUB profile! ◝(ᴖεᴖ✿)ﾉ
+# 🥦 보리꼬리의 GIT-HUB profile! ◝(ᴖεᴖ✿)ﾉ
 	
 <br/>   
 	
@@ -23,13 +23,13 @@
 	
 </div>
 
+#
 
-<div align="center">
+<div align="leading">
 <br/>
 	
-## 📫 How to reach me: happythgus@khu.ac.kr
-	
-### 💻 My Web-Site: https://sites.google.com/khu.ac.kr/broccoli-website/
+### 📫 Email: happythgus@khu.ac.kr
+### 💻 Blog: https://sohyeonkim-dev.tistory.com
 
 </div>
 <br/>
