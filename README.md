@@ -1,11 +1,3 @@
-<br/>
-<br/>  
-<p align="center">
-	
-<img src="https://capsule-render.vercel.app/api?type=Rounded&fontColor=392f31&color=68c17c&animation=blinking&height=150&section=header&text=Kim So-Hyeon&fontSize=80"/>   
-
-</p>
-<br/>  
 
 <div align="center">
 	
@@ -30,6 +22,7 @@
 	
 ### 📫 Email: happythgus@khu.ac.kr
 ### 💻 Blog: https://sohyeonkim-dev.tistory.com
+##### 🍎 UMC 3기 워크북: https://sohkim22.notion.site/UMC-3-iOS-Colli-2be11d8d8a294ddd8a8d699ffbfec701
 
 </div>
 <br/>
