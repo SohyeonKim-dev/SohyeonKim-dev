@@ -1,20 +1,8 @@
-
-<div align="center">
-	
-# 🥦 보리꼬리의 GIT-HUB profile! ◝(ᴖεᴖ✿)ﾉ
-	
-</div>
-
-<div align="center">
-	
-![trophy](https://github-profile-trophy.vercel.app/?username=SohyeonKim-dev&no-frame=true&margin-w=20&margin-h=20&row=2&column=3&theme=gruvbox)
-	
-</div>
-
-#
-
 <div align="leading">
 <br/>
+	
+# 👩‍💻 Who am I? 	
+### 🥦 수학과 머신러닝을 사랑하는 iOS 개발자, 김소현입니다
 	
 ### 📫 Email: happythgus@khu.ac.kr
 ### 💻 Blog: https://sohyeonkim-dev.tistory.com
@@ -23,8 +11,14 @@
 </div>
 <br/>
 
+<div align="leading">
+	
+![trophy](https://github-profile-trophy.vercel.app/?username=SohyeonKim-dev&no-frame=true&margin-w=20&margin-h=20&row=2&column=3&theme=gruvbox)
+	
+</div>
+
 #
-# 🛠️ Skills 💻
+# 🛠️ Skills
 ### Machine Learning 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -56,7 +50,6 @@
 #
 
    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SohyeonKim-dev&theme=flag-india&show_icons=true)
-   ![summary](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SohyeonKim-dev&theme=vue&utcOffset=8)
    
    ![graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SohyeonKim-dev&theme=vue)
    
