@@ -2,11 +2,10 @@
 <br/>
 	
 # 👩‍💻 Who am I? 	
-### 🥦 수학과 머신러닝을 사랑하는 iOS 개발자, 김소현입니다
-	
-### 📫 Email: happythgus@khu.ac.kr
-### 💻 Blog: https://sohyeonkim-dev.tistory.com
-### 🍎 Notion: https://sohkim22.notion.site/UMC-ec0f0150473a4a2bb68373abf7fb1b2a
+### 🥦  수학과 머신러닝을 사랑하는 iOS 개발자, 김소현입니다
+### 🥦  Email: happythgus@khu.ac.kr
+### 🥦  Blog: https://sohyeonkim-dev.tistory.com
+### 🥦  Notion: https://sohkim22.notion.site/UMC-ec0f0150473a4a2bb68373abf7fb1b2a
 
 </div>
 <br/>
@@ -66,6 +65,7 @@
 - 📘 : 알고리즘 문제 해결 전략 1, 2(구종만), 이것이 자바다 1(신용권)
 - 📘 : 핸즈온 머신 러닝2(오렐리앙 제롱), 케라스 창시자에게 배우는 딥러닝(프랑소와 숄레)
 - 📘 : 미술관에 GAN 딥러닝(데이비드 포스터), XGBoost와 사이킷런을 활용한 그레이디언트 부스팅(코리 웨이드)
-- 📒 : 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈) 
+- 📒 : 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈), 면접을 위한 CS 전공지식노트(진홍철)
+- 📒 : 혼자 공부하는 컴퓨터구조 + 운영체제(강민철)
 
 <br/>
