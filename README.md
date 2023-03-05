@@ -5,7 +5,6 @@
 ### 🥦  수학과 머신러닝을 사랑하는 iOS 개발자, 김소현입니다
 ### 🥦  Email: happythgus@khu.ac.kr
 ### 🥦  Blog: https://sohyeonkim-dev.tistory.com
-### 🥦  Notion: https://sohkim22.notion.site/UMC-ec0f0150473a4a2bb68373abf7fb1b2a
 
 </div>
 <br/>
