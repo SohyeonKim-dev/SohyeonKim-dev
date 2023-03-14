@@ -54,18 +54,3 @@
    
    ![repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SohyeonKim-dev&theme=vue)
    ![commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SohyeonKim-dev&theme=vue)
-   
-#
-# 📚 Programming Books
-- 📕 : 윤성우의 열혈 C++ 프로그래밍(윤성우), 윤성우의 열혈 자료구조(윤성우)
-- 📕 : Do it 자료구조와 함께 배우는 알고리즘 입문 C언어 편(보요 시바타)
-- 📗 : 객체지향 프로그래밍(김동헌), Git-GitHub(정호영), Clean Code(로버트 마틴)x2회독
-- 📗 : 죽을 때까지 코딩하며 사는 법(홍전일), 코드와 살아가기(앨런 울먼), 성공하는 프로그래밍 공부법(박재성)
-- 📗 : 코딩을 지탱하는 기술(니시오 히로카즈)
-- 📘 : 알고리즘 문제 해결 전략 1, 2(구종만), 이것이 자바다 1(신용권)
-- 📘 : 핸즈온 머신 러닝2(오렐리앙 제롱), 케라스 창시자에게 배우는 딥러닝(프랑소와 숄레)
-- 📘 : 미술관에 GAN 딥러닝(데이비드 포스터), XGBoost와 사이킷런을 활용한 그레이디언트 부스팅(코리 웨이드)
-- 📒 : 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈), 면접을 위한 CS 전공지식노트(진홍철)
-- 📒 : 혼자 공부하는 컴퓨터구조 + 운영체제(강민철)
-
-<br/>
