@@ -1,10 +1,18 @@
+![header](https://capsule-render.vercel.app/api?type=venom&color=75ab12&text=🌱&nbsp;Sohyeon&nbsp;Kim&nbsp;🥦)
+
 <div align="leading">
 <br/>
-	
-# 🥦 Who am I? 	
-####  Email: happythgus@khu.ac.kr
-####  Blog: https://sohyeonkim-dev.tistory.com
-####  Linkedin: https://www.linkedin.com/in/sohyeonkim-dev-colli/
+
+### 🌏 Hello, world
+
+Hi there, I'm [Sohyeon Kim](https://www.linkedin.com/in/sohyeonkim-dev-colli), a Repulic of korea   
+
+<!-- - 📱  interesting on [](https://github.com/jogilsang/manual-android/tree/master/0.Android) -->
+- 🍎 Interesting on [iOS](https://github.com/SohyeonKim-dev/) & ML
+- ✍️ This is my [Tech Blog](https://sohyeonkim-dev.tistory.com)
+- 💌 If you have any questions, send me an [Email](happythgus@khu.ac.kr) 
+
+
 
 </div>
 <br/>
