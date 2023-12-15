@@ -11,7 +11,7 @@
 
 <div align="leading">
 	
-![trophy](https://github-profile-trophy.vercel.app/?username=SohyeonKim-dev&no-frame=true&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=matrix)
+![trophy](https://github-profile-trophy.vercel.app/?username=SohyeonKim-dev&no-frame=true&margin-w=3&margin-h=0&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark&no-bg=true)
 	
 </div>
 
