@@ -11,7 +11,7 @@
 
 <div align="leading">
 	
-![trophy](https://github-profile-trophy.vercel.app/?username=SohyeonKim-dev&no-frame=true&margin-w=20&margin-h=20&row=2&column=3)
+![trophy](https://github-profile-trophy.vercel.app/?username=SohyeonKim-dev&no-frame=true&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=matrix)
 	
 </div>
 
@@ -45,6 +45,7 @@
    
    <!-- ![graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SohyeonKim-dev&theme=vue) -->
    
-   ![repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SohyeonKim-dev)
-   ![commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SohyeonKim-dev)
+   <!-- ![repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SohyeonKim-dev) -->
+   <!-- ![commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SohyeonKim-dev) -->
 
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohyeonKim-dev&hide_progress=true)
