@@ -5,7 +5,7 @@
 
 ### 🌏 Hello, world
 
-Hi there, I'm [Sohyeon Kim](https://www.linkedin.com/in/sohyeonkim-dev-colli), a Repulic of korea   
+Hi there, I'm [Sohyeon Kim](https://www.linkedin.com/in/sohyeonkim-dev-colli), a Republic of Korea   
 
 <!-- - 📱  interesting on [](https://github.com/jogilsang/manual-android/tree/master/0.Android) -->
 - 🍎 Interesting on [iOS](https://github.com/SohyeonKim-dev/) & ML
@@ -56,4 +56,4 @@ Hi there, I'm [Sohyeon Kim](https://www.linkedin.com/in/sohyeonkim-dev-colli), a
    <!-- ![repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SohyeonKim-dev) -->
    <!-- ![commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SohyeonKim-dev) -->
 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohyeonKim-dev&hide_progress=true)
+   <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohyeonKim-dev&hide_progress=true) -->
