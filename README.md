@@ -7,10 +7,9 @@
 
 Hi there, I'm [Sohyeon Kim](https://www.linkedin.com/in/sohyeonkim-dev-colli), a Republic of Korea   
 
-<!-- - 📱  interesting on [](https://github.com/jogilsang/manual-android/tree/master/0.Android) -->
-- 🍎 Interesting on [iOS](https://github.com/SohyeonKim-dev/) & ML
+- 🍎 Interesting on iOS & ML
 - ✍️ This is my [Tech Blog](https://sohyeonkim-dev.tistory.com)
-- 💌 If you have any questions, send me an [Email](happythgus@khu.ac.kr) 
+- 💌 If you have any questions, send me an [Email](mailto:happythgus@khu.ac.kr)
 
 
 
