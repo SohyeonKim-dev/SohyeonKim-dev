@@ -4,7 +4,7 @@
 <br/>
 	
 ### 🌏 Hello, world
-Hi there, I'm [Sohyeon Kim](https://www.linkedin.com/in/sohyeonkim-dev-colli), a Republic of Korea   
+Hi there, I'm [Sohyeon Kim](https://www.linkedin.com/in/sohyeonkim-dev-colli)
 - 🍎 Interesting on System Software and AI 
 - ✍️ This is my [Tech Blog](https://sohyeonkim-dev.tistory.com)
 - 💌 If you have any questions, send me an [Email](mailto:happythgus@khu.ac.kr)
@@ -12,7 +12,7 @@ Hi there, I'm [Sohyeon Kim](https://www.linkedin.com/in/sohyeonkim-dev-colli), a
 <br/>
 
 ### Projects
-- AUG. 2024 - FEB. 2025 - KIST Europe Internship – Saarbrücken, Germany (expected)
+- AUG. 2024 - FEB. 2025 - KIST Europe Internship – Saarbrücken, Germany 
 - MAR. 2024 – WRTN Generative AI Campus Leader – Planning an On-Campus WRTN Ideathon
 - FEB. 2024 - 2024 GDSC Google Solution Challenge – ML and iOS Development
 - APR. 2023 – FEB. 2024 - 1st Author of “Dataset Condensation with LDA” – Submitted to KSC 2023
@@ -30,7 +30,7 @@ Hi there, I'm [Sohyeon Kim](https://www.linkedin.com/in/sohyeonkim-dev-colli), a
 
 ### Education 
 - FEB. 2020 - Kyung Hee University – Yongin-si, South Korea
-	- Bachelor’s Degree in Computer Science and Engineering (GPA – 4.08/4.5)
+	- Bachelor’s Degree in Computer Science and Engineering (GPA – 4.19/4.5)
 	- MAR. 2023 - MAY. 2024 - Undergraduate Research Intern at MLVC
 - JAN. 2024 - San Jose State University – San Jose, USA
 - JUL. 2023 - Saarland University – Saarbrücken, Germany
