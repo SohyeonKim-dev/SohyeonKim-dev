@@ -6,7 +6,7 @@
 </div> <br/>
 
 ### 👩‍💻 Projects
-- AUG. 2024 : **KIST Europe Internship** *– Saarbrücken, Germany*
+- AUG. 2024 : **KIST Europe Internship** *– Biohybrid Robotics - Saarbrücken, Germany*
 - MAR. 2024 : **WRTN Generative AI Campus Leader** – *Planning an On-Campus WRTN Ideathon*
 - FEB. 2024 : **GDSC Google Solution Challenge** – *ML and iOS Development*
 - APR. 2023 : 1st Author of "**Dataset Condensation with LDA**" – *Submitted to KSC 2023*
